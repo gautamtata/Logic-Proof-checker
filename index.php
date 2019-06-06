@@ -52,13 +52,7 @@
           <h1 id="title" style = "color : white;"><a href="index.php" style="color:white;">Proof Checker</a></h1>
           <!-- <img id="logo" src="/assets/applogo.png" alt="Italian Trulli" > -->
         </div>
-        <a href="help.html" class="item" style = "color : white;">
-          Help
-        </a>
-        <a href="references.html" class="item" style = "color : white;">
-          References
-        </a>
-        <a href="rules.html" class="item" style = "color : white;">
+        <a href="http://integral-table.com/downloads/logic.pdf" class="item" style = "color : white;">
           Logic Rules
         </a>
         <div class="right menu">
@@ -163,9 +157,9 @@
 
         <hr style="margin-bottom: 15px;">
         <img id="logo" src="/assets/logicproofchecker.png">
-        <p id="bottom">Capstone 2019</p>
+     
         <p id="bottom">Logic Proof Checker</p>
-        <p id="bottom">Jay Arellano / Mustafa Al Asadi / Gautam Tata / Ben Lenz</p>
+        
         <br>
         
       <div class="ui basic modal">
