@@ -163,7 +163,7 @@
         <br>
         
       <div class="ui basic modal">
-      <h1 class="ui top attached header" id="modal-head" style="text-align: center;margin-left: 0px;margin-right: 0px;background-color: white;color: #002A4E; cursor: pointer;">login / sign up</h1>    
+      <h1 class="ui top attached header" id="modal-head" style="text-align: center;margin-left: 0px;margin-right: 0px;background-color: white;color: #002A4E; cursor: 'pointer' ">login / sign up</h1>    
       <div class="ui attached placeholder segment" id="modal-container" style="margin: 0 0 0 0;border-radius: 0 0 .28571429rem .28571429rem;max-width: 100%;">
         <div class="ui two column very relaxed stackable grid" style="margin:0;">
           <div class="column">
