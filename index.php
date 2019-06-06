@@ -49,7 +49,7 @@
   <body>
   <div id="top-menu" class="ui menu" style = "height : 60px;">
         <div class="header item">
-          <h1 id="title" style = "color : white;"><a href="index.php" style="color:white;">Proof Checker</a></h1>
+          <h1 id="title" style = "color : white;"><a href="index.php" style="color:white; cursor: pointer;">Proof Checker</a></h1>
           <!-- <img id="logo" src="/assets/applogo.png" alt="Italian Trulli" > -->
         </div>
         <a href="http://integral-table.com/downloads/logic.pdf" class="item" style = "color : white;">
@@ -163,7 +163,7 @@
         <br>
         
       <div class="ui basic modal">
-      <h1 class="ui top attached header" id="modal-head" style="text-align: center;margin-left: 0px;margin-right: 0px;background-color: white;color: #002A4E; cursor: 'pointer' ">login / sign up</h1>    
+      <h1 class="ui top attached header" id="modal-head" style="text-align: center;margin-left: 0px;margin-right: 0px;background-color: white;color: #002A4E; cursor: pointer ">login / sign up</h1>    
       <div class="ui attached placeholder segment" id="modal-container" style="margin: 0 0 0 0;border-radius: 0 0 .28571429rem .28571429rem;max-width: 100%;">
         <div class="ui two column very relaxed stackable grid" style="margin:0;">
           <div class="column">
